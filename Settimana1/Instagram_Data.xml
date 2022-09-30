@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instagram_data_by_artist>
+  <!--This is a list of Instagram data from 10 of Sony's most performing european artists-->
+  <artist>
+    <artist_name>Calvin Harris</artist_name>
+    <artist_instagram_identifier>
+      <username>calvinharris</username>
+      <IG_name>Calvin Harris</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+    <!--Posts by artis profile are distinguished by organic and paid activity-->
+      <likes type=organic>140034567</likes>
+      <comments type=organic>77894567</comments>
+      <impressions type=organic>990234567</impressions>
+      <shares type=organic>70896594</shares>
+      <likes type=paid>140034567</likes>
+      <comments type=paid>77894567</comments>
+      <impressions type=paid>990234567</impressions>
+      <shares type=paid>70896594</shares>
+    </posts>
+    <advertising_activity>
+    <!--advertising expenditures are meant in euros-->
+      <yearly_total_investment>300034567</yearly_total_investment>
+      <impressions_from_adv>290394567</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+    <!--this data is the result of a scraping of artist name within the social Instagram-->
+      <artist_name_mentions_from_post_description>29345678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>1945679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Ed Sheeran</artist_name>
+    <artist_instagram_identifier>
+      <username>teddysphoto</username>
+      <IG_name>Ed Sheeran</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>193434567</likes>
+      <comments type=organic>95694567</comments>
+      <impressions type=organic>1203234567</impressions>
+      <shares type=organic>89346594</shares>
+      <likes type=paid>0</likes>
+      <comments type=paid>0</comments>
+      <impressions type=paid>0</impressions>
+      <shares type=paid>0</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>0</yearly_total_investment>
+      <impressions_from_adv>0</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>29345678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>1945679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Adele</artist_name>
+    <artist_instagram_identifier>
+      <username>adele</username>
+      <IG_name>Adele</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>243434596</likes>
+      <comments type=organic>34594221</comments>
+      <impressions type=organic>3343234944</impressions>
+      <shares type=organic>13346503</shares>
+      <likes type=paid>0</likes>
+      <comments type=paid>0</comments>
+      <impressions type=paid>0</impressions>
+      <shares type=paid>0</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>0</yearly_total_investment>
+      <impressions_from_adv>0</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>4345678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>925679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Dua Lipa</artist_name>
+    <artist_instagram_identifier>
+      <username>dualipa</username>
+      <IG_name>DUA LIPA</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>554434234</likes>
+      <comments type=organic>34594003</comments>
+      <impressions type=organic>3343234789</impressions>
+      <shares type=organic>13446776</shares>
+      <likes type=paid>345534998</likes>
+      <comments type=paid>99434998</comments>
+      <impressions type=paid>943634995</impressions>
+      <shares type=paid>22344567</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>345056</yearly_total_investment>
+      <impressions_from_adv>783456784</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>244545678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>16675679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Måneskin</artist_name>
+    <artist_instagram_identifier>
+      <username>maneskinofficial</username>
+      <IG_name>Måneskin</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>30434234</likes>
+      <comments type=organic>8894003</comments>
+      <impressions type=organic>983234789</impressions>
+      <shares type=organic>4346776</shares>
+      <likes type=paid>1094392</likes>
+      <comments type=paid>1123459</comments>
+      <impressions type=paid>1234567</impressions>
+      <shares type=paid>345678</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>103456</yearly_total_investment>
+      <impressions_from_adv>1234859</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>89545678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>4675679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Rosalía</artist_name>
+    <artist_instagram_identifier>
+      <username>rosalia.vt</username>
+      <IG_name>LA ROSALÍA</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>198434234</likes>
+      <comments type=organic>10194003</comments>
+      <impressions type=organic>789234221</impressions>
+      <shares type=organic>8946456</shares>
+      <likes type=paid>98534998</likes>
+      <comments type=paid>9834998</comments>
+      <impressions type=paid>102634995</impressions>
+      <shares type=paid>1134567</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>234857</yearly_total_investment>
+      <impressions_from_adv>459456784</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>86745678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>1125679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Alan Walker</artist_name>
+    <artist_instagram_identifier>
+      <username>alawalkermusic</username>
+      <IG_name>Alan Walker</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>78934234</likes>
+      <comments type=organic>3494003</comments>
+      <impressions type=organic>34534221</impressions>
+      <shares type=organic>346456</shares>
+      <likes type=paid>4334998</likes>
+      <comments type=paid>684998</comments>
+      <impressions type=paid>67834995</impressions>
+      <shares type=paid>234567</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>78857</yearly_total_investment>
+      <impressions_from_adv>23134567</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>4565678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>789679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Kygo</artist_name>
+    <artist_instagram_identifier>
+      <username>kygomusic</username>
+      <IG_name>kygo</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>2934234</likes>
+      <comments type=organic>294003</comments>
+      <impressions type=organic>8534221</impressions>
+      <shares type=organic>26445</shares>
+      <likes type=paid>634998</likes>
+      <comments type=paid>24998</comments>
+      <impressions type=paid>3834234</impressions>
+      <shares type=paid>94567</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>178857</yearly_total_investment>
+      <impressions_from_adv>88134567</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>345678</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>34679</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Gabry Ponte</artist_name>
+    <artist_instagram_identifier>
+      <username>gabryponte</username>
+      <IG_name>gabry ponte</IG_name>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>3434385</likes>
+      <comments type=organic>564011</comments>
+      <impressions type=organic>12934333</impressions>
+      <shares type=organic>43445</shares>
+      <likes type=paid>344912</likes>
+      <comments type=paid>21998</comments>
+      <impressions type=paid>5634234</impressions>
+      <shares type=paid>99567</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>70857</yearly_total_investment>
+      <impressions_from_adv>1234661</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>334644</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>24699</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+  <artist>
+    <artist_name>Harry Styles</artist_name>
+    <artist_instagram_identifier>
+      <username>harrystyles</username>
+      <IG_name/>
+    </artist_instagram_identifier>
+    <posts>
+      <likes type=organic>5764385</likes>
+      <comments type=organic>234011</comments>
+      <impressions type=organic>13234333</impressions>
+      <shares type=organic>343445</shares>
+      <likes type=paid>0</likes>
+      <comments type=paid>0</comments>
+      <impressions type=paid>0</impressions>
+      <shares type=paid>0</shares>
+    </posts>
+    <advertising_activity>
+      <yearly_total_investment>0</yearly_total_investment>
+      <impressions_from_adv>0</impressions_from_ads>
+    </advertising_activity>
+    <mentions>
+      <artist_name_mentions_from_post_description>19334644</artist_name_mentions_from_post_description>
+      <artist_name_mentions_from_hashtag>4524699</artist_name_mentions_from_hashtag>
+    </mentions>
+  </artist>
+</instagram_data_by_artist>
